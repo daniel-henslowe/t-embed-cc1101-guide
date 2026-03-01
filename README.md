@@ -53,7 +53,7 @@ This guide is designed for **ethical hackers, security researchers, RF enthusias
 |:--------|:-----------|
 | [09 — GPIO & Hardware Hacking](docs/09-gpio-hardware.md) | Pinout, SPI, I2C, UART, expansion modules |
 | [10 — Custom Firmware Development](docs/10-custom-development.md) | Arduino, PlatformIO, ESP-IDF, full code examples |
-| [11 — Practical Projects](docs/11-projects.md) | 10 real-world builds from beginner to expert |
+| [11 — Practical Projects](docs/11-projects.md) | 25 real-world builds from beginner to expert |
 
 ### Reference
 | Chapter | Description |

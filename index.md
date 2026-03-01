@@ -77,7 +77,7 @@ The LILYGO T-Embed CC1101 Plus is a compact, open-source multi-tool built around
 | 08 | [BadUSB / HID](docs/08-badusb/) | Keyboard emulation, payloads, Ducky Script |
 | 09 | [GPIO & Hardware Hacking](docs/09-gpio-hardware/) | Pinout, SPI, I2C, UART, external modules |
 | 10 | [Custom Firmware Development](docs/10-custom-development/) | Arduino, PlatformIO, libraries, full examples |
-| 11 | [Practical Projects](docs/11-projects/) | 10 real-world builds from beginner to advanced |
+| 11 | [Practical Projects](docs/11-projects/) | 25 real-world builds from beginner to expert |
 | 12 | [Troubleshooting & FAQ](docs/12-troubleshooting/) | Every common problem and its fix |
 | 13 | [Legal Reference](docs/13-legal-reference/) | Frequency regulations, authorized use, compliance |
 
