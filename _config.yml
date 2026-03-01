@@ -1,0 +1,72 @@
+title: "LILYGO T-Embed CC1101 Plus — The Ultimate Guide"
+description: "Every use case, every feature, every hack. The definitive guide to the T-Embed CC1101 Plus."
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+
+url: "https://daniel-henslowe.github.io"
+baseurl: "/t-embed-cc1101-guide"
+
+permalink: pretty
+
+aux_links:
+  "GitHub":
+    - "https://github.com/daniel-henslowe/t-embed-cc1101-guide"
+
+aux_links_new_tab: true
+nav_sort: case_insensitive
+heading_anchors: true
+
+search_enabled: true
+search.rel_url: true
+search.tokenizer_separator: /[\s/]+/
+
+color_scheme: dark
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  danger:
+    title: Danger — Legal Notice
+    color: red
+  tip:
+    title: Tip
+    color: green
+  note:
+    title: Note
+    color: blue
+  project:
+    title: Project
+    color: purple
+  pinout:
+    title: Pinout
+    color: yellow
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "&copy; 2026 Daniel Henslowe. For authorized security research and educational purposes only."
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/daniel-henslowe/t-embed-cc1101-guide"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+
+plugins:
+  - jekyll-seo-tag
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
